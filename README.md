@@ -1,4 +1,4 @@
-# Popcorn Website
+# usePopcorn Website
 
 ## Introduction
 Welcome to the Popcorn website! This platform utilizes React.js to offer a fun and interactive experience for movie enthusiasts. Users can browse, rate, and review movies they've watched, engaging with a vibrant community of fellow film lovers. The design is user-friendly and responsive, ensuring a seamless browsing experience on any device.
@@ -9,7 +9,7 @@ Welcome to the Popcorn website! This platform utilizes React.js to offer a fun a
 - **Interactive Design**: Utilizes the latest web technologies for a smooth and engaging user experience.
 
 ## Video Tour
-[![Popcorn Website Tour](http://img.youtube.com/vi/INSERT_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=INSERT_VIDEO_ID_HERE "Popcorn Website Tour")
+[![Popcorn Website Tour]([http://img.youtube.com/vi/INSERT_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=INSERT_VIDEO_ID_HERE "Popcorn Website Tour"](https://youtu.be/ygi7VC2JBLg))
 
 ## Technologies Used
 - **React.js**: For building the user interface in a modular, stateful way.
