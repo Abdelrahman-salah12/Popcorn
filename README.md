@@ -9,8 +9,7 @@ Welcome to the Popcorn website! This platform utilizes React.js to offer a fun a
 - **Interactive Design**: Utilizes the latest web technologies for a smooth and engaging user experience.
 
 ## Video Tour
-[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://youtu.be/ygi7VC2JBLg))](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+[![Watch the video](https://img.youtube.com/vi/ygi7VC2JBLg/0.jpg)](https://youtu.be/ygi7VC2JBLg)
 
 ## Technologies Used
 - **React.js**: For building the user interface in a modular, stateful way.
